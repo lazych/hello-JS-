@@ -1,0 +1,51 @@
+{
+  "name": "rr",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/eslint-parser": "^7.17.0",
+    "@babel/preset-react": "^7.16.7",
+    "@types/node": "^16.11.26",
+    "@typescript-eslint/eslint-plugin": "^5.13.0",
+    "@typescript-eslint/parser": "^5.13.0",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^16.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-wesbos": "^3.0.2",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.3",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "prettier": "^2.5.1",
+    "typescript": "^4.6.2",
+    "vite": "^2.8.0"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "esbuild": "^0.14.21",
+    "esbuild-linux-64": "^0.14.21",
+    "function-bind": "^1.1.1",
+    "has": "^1.0.3",
+    "is-core-module": "^2.8.1",
+    "nanoid": "^3.2.0",
+    "path-parse": "^1.0.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.6",
+    "resolve": "^1.22.0",
+    "rollup": "^2.67.2",
+    "source-map-js": "^1.0.2",
+    "supports-preserve-symlinks-flag": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
